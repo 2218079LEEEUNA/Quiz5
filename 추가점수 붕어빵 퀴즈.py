@@ -1,5 +1,4 @@
 class 붕어빵 : #붕어빵 타이쿤 실습 과제 붕어빵 클래스 만들기
-    total = 0
     def __init__(self, contents, price):
         self.contents = contents
         self.price = price
